@@ -2,30 +2,17 @@
 [![Fvldi code style](https://img.shields.io/badge/Author-Fvldi-42b883)](https://github.com/fvldi)
 [![Name](https://img.shields.io/badge/Name-Muhamad%20Rifaldi-347474)](https://github.com/fvldi)
 [![NRP](https://img.shields.io/badge/NRP-05311840000022-35495e)](https://github.com/fvldi)
-[![Lecturer](https://img.shields.io/badge/Lecturers-Abdul%20Munif-ff7e67)](https://github.com/fvldi)
+[![Lecturer](https://img.shields.io/badge/Lecturers-Mr.%20Abdul%20Munif-ff7e67)](https://github.com/fvldi)
 
-Dovid adalah web yang dikembangkan untuk memenuhi tugas Evaluasi Akhir Semester mata kuliah Pemrograman Integratif, menggunakan twig, php, dengan desain MVC(Model, View, Controller).
+Dovid adalah web yang dikembangkan untuk memenuhi tugas Evaluasi Akhir Semester mata kuliah Pemrograman Integratif, menggunakan twig, php, dengan desain [MVC](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm) (Model, View, Controller).  
+<br>  
 
-Dovid adalah web yang dikembangakan oleh mikail dengan ❤️, menggunakan twig, php, dengan desain MVC(Model, View, Controller) dan saya mengucapkan terima kasih kepada [honorable mention](HonorableMention.md).
-<br><br>
-*Lihat [MVC](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm) untuk mengetahui lebih lanjut.*
-# 『Table Of Content』
+# Table Of Content
 - [Hero](#)
-- [Setup](#setup)
-  - [Requirement](#Requirement)
-  - [Installation](#Installation)
-  - [Localization](#Localization)
-- [Usage](#usage)
-- [Penjelasan kodingan](#Penjelasan-Kodingan)
-  - [Tambah](#Tambah)
-  - [Jenis](#Jenis)
-- [Hasil](#Hasil)
-- [Framework](#Framework)
-- [Font](#Font)
-- [New Version](#New-Version)
-- [Old Version](#Old-Version)
+- [Penjelasan singkat aplikasi](#Penjelasan-Singkat-Aplikasi)
+- [Penjelasan fitur aplikasi](#Fitur)
 
-# 『Setup』
+# Penjelasan Singkat Aplikasi
 ### 【Requirement】
 [![PHP Symfony](https://img.shields.io/packagist/php-v/symfony/symfony)](https://symfony.com/) 
 [![Twig Status](https://img.shields.io/node/v/twig?label=twig)](https://twig.symfony.com/) 
