@@ -8,11 +8,11 @@ Dovid adalah web yang dikembangkan untuk memenuhi tugas Evaluasi Akhir Semester 
 <br>
 
 # Daftar ISi
-- [I. Penjelasan Singkat Aplikasi](#I.-Penjelasan-Singkat-Aplikasi)
-    - [1.1. Controllers](#1.1.-Controllers)
-    - [1.2. Models](#1.2.-Models)
-    - [1.3. Views](#1.3.-Views)
-- [II. Penjelasan fitur aplikasi](#II.-Penjelasan-fitur-aplikasi)
+- [I. Penjelasan Singkat Aplikasi](#I-Penjelasan-Singkat-Aplikasi)
+    - [1.1. Controllers](#1.1-Controllers)
+    - [1.2. Models](#1.2-Models)
+    - [1.3. Views](#1.3-Views)
+- [II. Penjelasan fitur aplikasi](#II-Penjelasan-fitur-aplikasi)
 
 # I. Penjelasan Singkat Aplikasi
 
