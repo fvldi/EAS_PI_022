@@ -1,4 +1,4 @@
-# ![DOVID! (DONASI COVID-19)](image/01.gif)
+# ![DOVID! (DONASI COVID-19)](https://github.com/fvldi/EAS_PI_022/blob/master/image/01.gif)
 [![Fvldi code style](https://img.shields.io/badge/Author-Fvldi-42b883)](https://github.com/fvldi)
 [![Name](https://img.shields.io/badge/Name-Muhamad%20Rifaldi-347474)](https://github.com/fvldi)
 [![NRP](https://img.shields.io/badge/NRP-05311840000022-35495e)](https://github.com/fvldi)
