@@ -7,6 +7,13 @@
 Dovid adalah web yang dikembangkan untuk memenuhi tugas Evaluasi Akhir Semester mata kuliah Pemrograman Integratif, menggunakan twig, php, dengan desain [MVC](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm) (Model, View, Controller).  
 <br>
 
+# Daftar ISi
+- [I. Penjelasan Singkat Aplikasi](#I.-Penjelasan-Singkat-Aplikasi)
+    - [1.1. Controllers](#1.1.-Controllers)
+    - [1.2. Models](#1.2.-Models)
+    - [1.3. Views](#1.3.-Views)
+- [II. Penjelasan fitur aplikasi](#II.-Penjelasan-fitur-aplikasi)
+
 # I. Penjelasan Singkat Aplikasi
 
 Dovid (Donasi COVID-19) merupakan website sederhana yang digunakan untuk mendata bantuan selama terjadi pandemi saat ini. Website ini memiliki beberapa fitur berikut:
@@ -70,6 +77,6 @@ Pada page berikutnya, para donatur dapat mendata barang donasi mereka dengan men
 
 # ![COVID FIGHTER](image/02.gif)
 
-Setelah donasi berhasil dilakukan, maka akan muncul kotak dialog pada page pertama Dovid. Kemudian, jika para donatur ingin melihat rekap data donasi pada website Dovid, mereka dapat meng-klik link ```Rekap data donasi 📝``` untuk kemudian diarahkan ke page rekap donasi.
+Setelah donasi berhasil dilakukan, maka akan muncul kotak dialog pada halaman utama Dovid. Kemudian, jika para donatur ingin melihat rekap data donasi pada website Dovid, mereka dapat meng-klik link ```Rekap data donasi 📝``` untuk kemudian diarahkan ke page rekap donasi.
 
 # ![COVID FIGHTER](image/03.gif)
