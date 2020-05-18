@@ -5,7 +5,7 @@
 [![Lecturer](https://img.shields.io/badge/Lecturers-Mr.%20Abdul%20Munif-ff7e67)](https://github.com/fvldi)
 
 Dovid adalah web yang dikembangkan untuk memenuhi tugas Evaluasi Akhir Semester mata kuliah Pemrograman Integratif, menggunakan twig, php, dengan desain [MVC](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm) (Model, View, Controller).  
-<br>  
+<br><br> 
 
 # I Penjelasan Singkat Aplikasi
 
@@ -61,3 +61,15 @@ Terdapat 3 view untuk beberapa fungsionalitas. View yang di gunakan yaitu [**`in
 * **`rekap`**: digunakan untuk melihat rekapan data donasi. Berikut screenshot pada view **`rekap`**
 
 # II Penjelasan fitur aplikasi
+
+Pada halaman utama website Dovid, para donatur akan diberikan tampilan form field yang kemudian akan mereka isi dengan nama serta email mereka. Kemudian para donatur akan mengisi form tersebut dan meng-klik ```Submit``` untuk lanjut ke tahap berikutnya.
+
+# ![COVID FIGHTER](image/01.gif)
+
+Pada page berikutnya, para donatur dapat mendata barang donasi mereka dengan meng-klik ```Tambah Donasi```. Setelah itu mereka dapat mengisi form field yang telah disediakan, yaitu terdiri atas kategori donasi, keterangan, hingga banyak donasi. Para donatur dapat berdonasi lebih dari satu jenis. Jika dirasa sudah cukup, klik ```Kirim 🔥``` untuk memproses donasi.
+
+# ![COVID FIGHTER](image/02.gif)
+
+Setelah donasi berhasil dilakukan, maka akan muncul kotak dialog pada page pertama Dovid. Kemudian, jika para donatur ingin melihat rekap data donasi pada website Dovid, mereka dapat meng-klik link ```Rekap data donasi 📝``` untuk kemudian diarahkan ke page rekap donasi.
+
+# ![COVID FIGHTER](image/03.gif)
