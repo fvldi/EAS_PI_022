@@ -1,8 +1,8 @@
 # ![COVID FIGHTER](image/01.gif)
-[![Fvldi code style](https://img.shields.io/badge/Author-Fvldi-0f6363)](https://github.com/fvldi)
-[![Name](https://img.shields.io/badge/Name-Muhamad%20Rifaldi-0f6363)](https://github.com/fvldi)
-[![NRP](https://img.shields.io/badge/NRP-05311840000022-black)](https://github.com/fvldi)
-[![Lecturer](https://img.shields.io/badge/Lecturers-Abdul%20Munif-0f6363)](https://github.com/fvldi)
+[![Fvldi code style](https://img.shields.io/badge/Author-Fvldi-42b883)](https://github.com/fvldi)
+[![Name](https://img.shields.io/badge/Name-Muhamad%20Rifaldi-347474)](https://github.com/fvldi)
+[![NRP](https://img.shields.io/badge/NRP-05311840000022-35495e)](https://github.com/fvldi)
+[![Lecturer](https://img.shields.io/badge/Lecturers-Abdul%20Munif-ff7e67)](https://github.com/fvldi)
 
 Dovid adalah web yang dikembangkan untuk memenuhi tugas Evaluasi Akhir Semester mata kuliah Pemrograman Integratif, menggunakan twig, php, dengan desain MVC(Model, View, Controller).
 
