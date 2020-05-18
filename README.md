@@ -1,4 +1,4 @@
-# ![COVID FIGHTER](image/01.gif)
+# ![DOVID! (DONASI COVID-19)](image/01.gif)
 [![Fvldi code style](https://img.shields.io/badge/Author-Fvldi-42b883)](https://github.com/fvldi)
 [![Name](https://img.shields.io/badge/Name-Muhamad%20Rifaldi-347474)](https://github.com/fvldi)
 [![NRP](https://img.shields.io/badge/NRP-05311840000022-35495e)](https://github.com/fvldi)
@@ -71,12 +71,12 @@ Terdapat 3 view untuk beberapa fungsionalitas. View yang di gunakan yaitu [**`in
 
 Pada halaman utama website Dovid, para donatur akan diberikan tampilan form field yang kemudian akan mereka isi dengan nama serta email mereka. Kemudian para donatur akan mengisi form tersebut dan meng-klik ```Submit``` untuk lanjut ke tahap berikutnya.
 
-# ![COVID FIGHTER](image/01.gif)
+# ![DOVID! (DONASI COVID-19](image/01.gif)
 
 Pada page berikutnya, para donatur dapat mendata barang donasi mereka dengan meng-klik ```Tambah Donasi```. Setelah itu mereka dapat mengisi form field yang telah disediakan, yaitu terdiri atas kategori donasi, keterangan, hingga banyak donasi. Para donatur dapat berdonasi lebih dari satu jenis. Jika dirasa sudah cukup, klik ```Kirim 🔥``` untuk memproses donasi.
 
-# ![COVID FIGHTER](image/02.gif)
+# ![DOVID! (DONASI COVID-19](image/02.gif)
 
 Setelah donasi berhasil dilakukan, maka akan muncul kotak dialog pada halaman utama Dovid. Kemudian, jika para donatur ingin melihat rekap data donasi pada website Dovid, mereka dapat meng-klik link ```Rekap data donasi 📝``` untuk kemudian diarahkan ke page rekap donasi.
 
-# ![COVID FIGHTER](image/03.gif)
+# ![DOVID! (DONASI COVID-19](image/03.gif)
