@@ -5,7 +5,7 @@
 [![Lecturer](https://img.shields.io/badge/Lecturers-Mr.%20Abdul%20Munif-ff7e67)](https://github.com/fvldi)
 
 Dovid adalah web yang dikembangkan untuk memenuhi tugas Evaluasi Akhir Semester mata kuliah Pemrograman Integratif, menggunakan twig, php, dengan desain [MVC](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm) (Model, View, Controller).  
-<br><br> 
+<br>
 
 # I Penjelasan Singkat Aplikasi
 
