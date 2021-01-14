@@ -6,13 +6,14 @@
 
 Dovid adalah web yang dikembangkan untuk memenuhi tugas Evaluasi Akhir Semester mata kuliah Pemrograman Integratif, menggunakan twig, php, dengan desain [MVC](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm) (Model, View, Controller).  
 
-<br>
+<br><br>
 
-<a href="https://aimeos.org/">
-    <img src="image/Dovid.svg" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
-</a>
+<p align="center">
+  <a href="https://github.com/fvldi/FP_SDI_NetcutAltert">
+    <img src="image/Dovid.svg" alt="Aimeos logo" title="Aimeos" align="center" height="60" />
+  </a>
 
-<br>
+<br><br>
 
 # Daftar ISi
 - [I. Penjelasan Singkat Aplikasi](#I-Penjelasan-Singkat-Aplikasi)
